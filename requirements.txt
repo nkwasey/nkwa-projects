@@ -6,3 +6,4 @@ pandas
 dash
 dash-daq
 dash-bootstrap-components
+uwsgi

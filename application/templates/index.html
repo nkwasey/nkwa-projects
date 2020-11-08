@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>AVFS | Documentation</title>
+
+    <!-- CSS -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="{{url_for('static', filename='assets/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='assets/css/font-awesome.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='assets/css/main.css')}}">
+</head>
+<body class="single-knowledgebase">
+
+    <!-- Header -->
+    <header class="hero overlay">
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-header">
+                    <a href="/index.html" class="brand">
+                        <img src="{{url_for('static', filename='assets/images/logo1.png')}}" alt="AVFS logo">
+                    </a>
+                </div>
+           </div>
+       </nav>
+        <div class="masthead single-masthead">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <form>
+                        <input type="text" class="search-field" placeholder="Search Something ... "/>
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+                <div class="col-md-4">
+                    <a href="#" class="btn btn-hero">
+                        <span class="icon-git"></span> Github Project<span class="icon-right"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+
+<main class="content-wrapper">
+    <div class="container">
+        <div class="col-lg-8">
+            <article class="post">
+                <h1>Getting Started With API </h1>
+
+                <ul class="meta">
+                    <li><span>Created :</span> October, 29, 2020</li>
+                    <li><span>Last Updated:</span> October, 29, 2020</li>
+                </ul>
+                <h2>Documentation</h2>
+                <div class="alert alert-info" role="alert">
+                    <span class="icon-info"></span>
+                    <p>
+                    This API provides fire data for Ghana, West-Africa.
+                        Get access active fire products from MODIS and VIIRS between January, 2020 and October, 2020.
+                        Please remember that all Examples of API calls that listed on this page
+                        are just samples and do not have any connection to the real API service! </p>
+                    <hr>
+                    <h4>Available Fire Data</h4>
+                    <ul>
+                        <li> MODIS C6 is available </li>
+                        <li> VIIRS 375 m (S-NPP) </li>
+                    </ul>
+                </div>
+
+            <img class="aligncenter" src="{{url_for('static', filename='assets/images/connection.png')}}" alt="connection image">
+            <div class="alert alert-info" role="alert">
+                <span class="icon-info"></span>
+                <p>Fire Information</p>
+            </div>
+
+            <h2 id=search_byDate> By Date &amp; Instrument Name</h2>
+            <p style="color:#03a9f4">Description</p>
+            <p>Calls historical fire data by date and country name as specified in documentation. API responds with exact results.</p>
+            <p style="color:#03a9f4"> API Call</p>
+            <p style="color:#ED5564">  &#8226; http://127.0.0.1:5000/api/fires?date={mm-dd-yyyy}&instr={instrumentName}</p>
+            <p style="color:#03a9f4"> Parameters: </p>
+            <p><b>country</b> Country index </p>
+            <p><b>date</b> date to search for.{format: mm-dd-yyyy} e.g. 1-15-2020 </p>
+            <p><b>instr</b> name of instrument e.g. modis/viirs </p>
+            <p style="color:#03a9f4">Examples of API calls:</p>
+            <p style="color:#ED5564"> &#8226; http://127.0.0.1:5000/api/fires?date=4-10-2020&instr=modis</p>
+            <p style="color:#ED5564"> &#8226; http://127.0.0.1:5000/api/fires?date=4-10-2020&instr=viirs</p>
+            <hr>
+
+            <h2> JSON</h2>
+            <p>Example of API response:</p>
+            <h4>Fire Information</h4>
+            <blockquote>{
+                <br>&nbsp;&nbsp;[
+                <br>&nbsp;&nbsp;&nbsp;{
+                <br>&nbsp;&nbsp;&nbsp;&nbsp; "Count(s)": 3
+                <br>&nbsp;&nbsp;&nbsp;},
+                <br>&nbsp;&nbsp;&nbsp;{
+                <br>&nbsp;&nbsp;&nbsp;&nbsp; "Fire(s)": [
+                <br>&nbsp;&nbsp;&nbsp;{
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lat": 9.7892,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lon": 1.2208,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"date": "1/1/2016",
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"brightness": 302.6,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"ToD": 1:43,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"satellite": "A"
+                <br>&nbsp;&nbsp;&nbsp;},
+                <br>&nbsp;&nbsp;&nbsp;{
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lat": 9.4892,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lon": 0.2208,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"date": "1/1/2016",
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"brightness": 372.6,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"ToD": 1:43,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"satellite": "T"
+                <br>&nbsp;&nbsp;&nbsp;},
+                <br>&nbsp;&nbsp;&nbsp;{
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lat": 9.4892,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"lon": 0.2208,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"date": "1/1/2016",
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"brightness": 372.6,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"ToD": 1:43,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;"satellite": "N"
+                <br>&nbsp;&nbsp;&nbsp;},
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;...
+            </blockquote>
+            <h4>Parameters for Terra and Aqua</h4>
+            <p>&nbsp;<mark>ToD</mark> Time of acquisition/overpass of the satellite (in UTC)</p>
+            <p>&nbsp;<mark>brightness</mark> Channel 21/22 brightness temperature of the fire pixel measured in Kelvin.</p>
+            <p>&nbsp;<mark>date</mark> Date of MODIS acquisition</p>
+            <p>&nbsp;<mark>lat</mark> Center of 1km fire pixel but not necessarily the actual location of the fire as one
+                or more fires can be detected within the 1km pixel.</p>
+            <p>&nbsp;<mark>lon</mark> Center of 1km fire pixel but not necessarily the actual location of the fire as one
+                or more fires can be detected within the 1km pixel.</p>
+            <p>&nbsp;<mark>satellite</mark> Satellite A = Aqua and T = Terra.</p>
+
+            <h4>Parameters for Suomi NPP</h4>
+            <p>&nbsp;<mark>ToD</mark> Time of acquisition/overpass of the satellite (in UTC)</p>
+            <p>&nbsp;<mark>brightness</mark> VIIRS I-4 channel brightness temperature of the fire pixel measured in Kelvin</p>
+            <p>&nbsp;<mark>date</mark> Date of VIIRS acquisition</p>
+            <p>&nbsp;<mark>lat</mark> Latitude, Center of nominal 375 m fire pixel</p>
+            <p>&nbsp;<mark>lon</mark> Longitude, Center of nominal 375 m fire pixel</p>
+            <p>&nbsp;<mark>satellite</mark> Satellite N= Suomi National Polar-orbiting Partnership (Suomi NPP)</p>
+
+
+        </article>
+    </div>
+        <div class="col-lg-4">
+        <div class="sidebar">
+            <div class="widget widget-support-forum">
+                <span class="icon icon-forum"></span>
+                <h4>This is a demo application</h4>
+                <p>To view the live application, click on the button below</p>
+                <a href="http://avfs.xtellixapp.com/" class="btn btn-success">AVFS Web Application</a>
+            </div>
+
+            <!--******************************* Lists *******************************-->
+
+            <div class="pt-50">
+                <div class="widget widget_categories">
+                    <span class="icon icon-folder"></span>
+                    <h4>AVFS Endpoint Demo</h4>
+                    <ul>
+                        <li><a href="#search_byDate"> Search By Date </a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 col-md-3 col-sm-3">
+                <a href="#" class="brand">
+                    <img src="{{url_for('static', filename='assets/images/logo1.png')}}" alt="AVFS logo">
+                    <span class="circle"></span>
+                </a>
+            </div>
+            <div class="col-lg-7 col-md-5 col-sm-9"></div>
+            <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="copyright">
+                    <p>© 2020 EORIC Copyrights</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="{{url_for('static', filename='assets/js/jquery-1.12.3.min.js')}}"></script>
+<script src="{{url_for('static', filename='assets/js/bootstrap.min.js')}}"></script>
+<script src="{{url_for('static', filename='assets/js/main.js')}}"></script>
+</body>
+</html>
+
+
+

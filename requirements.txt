@@ -1,0 +1,8 @@
+python-dotenv
+Flask
+pymongo
+requests
+pandas
+dash
+dash-daq
+dash-bootstrap-components

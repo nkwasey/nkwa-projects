@@ -1,0 +1,1537 @@
+Country,Source,Year,Month,Fire Count
+Benin,MODIS,2016,Jan,4168
+Benin,MODIS,2016,Feb,1801
+Benin,MODIS,2016,Mar,500
+Benin,MODIS,2016,Apr,71
+Benin,MODIS,2016,May,17
+Benin,MODIS,2016,Jun,5
+Benin,MODIS,2016,Jul,2
+Benin,MODIS,2016,Aug,2
+Benin,MODIS,2016,Sep,7
+Benin,MODIS,2016,Oct,288
+Benin,MODIS,2016,Nov,3268
+Benin,MODIS,2016,Dec,3692
+Benin,MODIS,2017,Jan,3250
+Benin,MODIS,2017,Feb,2687
+Benin,MODIS,2017,Mar,790
+Benin,MODIS,2017,Apr,126
+Benin,MODIS,2017,May,20
+Benin,MODIS,2017,Jun,4
+Benin,MODIS,2017,Jul,1
+Benin,MODIS,2017,Aug,5
+Benin,MODIS,2017,Sep,4
+Benin,MODIS,2017,Oct,151
+Benin,MODIS,2017,Nov,4171
+Benin,MODIS,2017,Dec,3108
+Benin,MODIS,2018,Jan,4085
+Benin,MODIS,2018,Feb,1984
+Benin,MODIS,2018,Mar,552
+Benin,MODIS,2018,Apr,100
+Benin,MODIS,2018,May,24
+Benin,MODIS,2018,Jun,2
+Benin,MODIS,2018,Jul,3
+Benin,MODIS,2018,Aug,4
+Benin,MODIS,2018,Sep,3
+Benin,MODIS,2018,Oct,22
+Benin,MODIS,2018,Nov,2348
+Benin,MODIS,2018,Dec,3185
+Benin,MODIS,2019,Jan,2692
+Benin,MODIS,2019,Feb,2294
+Benin,MODIS,2019,Mar,816
+Benin,MODIS,2019,Apr,108
+Benin,MODIS,2019,May,27
+Benin,MODIS,2019,Jun,3
+Benin,MODIS,2019,Jul,1
+Benin,MODIS,2019,Aug,4
+Benin,MODIS,2019,Sep,2
+Benin,MODIS,2019,Oct,3
+Benin,MODIS,2019,Nov,1947
+Benin,MODIS,2019,Dec,3368
+Burkina Faso,MODIS,2016,Jan,2499
+Burkina Faso,MODIS,2016,Feb,1141
+Burkina Faso,MODIS,2016,Mar,441
+Burkina Faso,MODIS,2016,Apr,78
+Burkina Faso,MODIS,2016,May,16
+Burkina Faso,MODIS,2016,Jun,14
+Burkina Faso,MODIS,2016,Jul,0
+Burkina Faso,MODIS,2016,Aug,1
+Burkina Faso,MODIS,2016,Sep,0
+Burkina Faso,MODIS,2016,Oct,1187
+Burkina Faso,MODIS,2016,Nov,3514
+Burkina Faso,MODIS,2016,Dec,4709
+Burkina Faso,MODIS,2017,Jan,2475
+Burkina Faso,MODIS,2017,Feb,1096
+Burkina Faso,MODIS,2017,Mar,407
+Burkina Faso,MODIS,2017,Apr,74
+Burkina Faso,MODIS,2017,May,31
+Burkina Faso,MODIS,2017,Jun,9
+Burkina Faso,MODIS,2017,Jul,2
+Burkina Faso,MODIS,2017,Aug,1
+Burkina Faso,MODIS,2017,Sep,2
+Burkina Faso,MODIS,2017,Oct,1014
+Burkina Faso,MODIS,2017,Nov,5093
+Burkina Faso,MODIS,2017,Dec,3083
+Burkina Faso,MODIS,2018,Jan,1875
+Burkina Faso,MODIS,2018,Feb,660
+Burkina Faso,MODIS,2018,Mar,328
+Burkina Faso,MODIS,2018,Apr,66
+Burkina Faso,MODIS,2018,May,31
+Burkina Faso,MODIS,2018,Jun,4
+Burkina Faso,MODIS,2018,Jul,0
+Burkina Faso,MODIS,2018,Aug,0
+Burkina Faso,MODIS,2018,Sep,3
+Burkina Faso,MODIS,2018,Oct,93
+Burkina Faso,MODIS,2018,Nov,2959
+Burkina Faso,MODIS,2018,Dec,3962
+Burkina Faso,MODIS,2019,Jan,2230
+Burkina Faso,MODIS,2019,Feb,1008
+Burkina Faso,MODIS,2019,Mar,331
+Burkina Faso,MODIS,2019,Apr,92
+Burkina Faso,MODIS,2019,May,13
+Burkina Faso,MODIS,2019,Jun,2
+Burkina Faso,MODIS,2019,Jul,0
+Burkina Faso,MODIS,2019,Aug,0
+Burkina Faso,MODIS,2019,Sep,1
+Burkina Faso,MODIS,2019,Oct,87
+Burkina Faso,MODIS,2019,Nov,3193
+Burkina Faso,MODIS,2019,Dec,4088
+Ivory Coast,MODIS,2016,Jan,11517
+Ivory Coast,MODIS,2016,Feb,7952
+Ivory Coast,MODIS,2016,Mar,2024
+Ivory Coast,MODIS,2016,Apr,998
+Ivory Coast,MODIS,2016,May,400
+Ivory Coast,MODIS,2016,Jun,69
+Ivory Coast,MODIS,2016,Jul,35
+Ivory Coast,MODIS,2016,Aug,27
+Ivory Coast,MODIS,2016,Sep,15
+Ivory Coast,MODIS,2016,Oct,68
+Ivory Coast,MODIS,2016,Nov,539
+Ivory Coast,MODIS,2016,Dec,7884
+Ivory Coast,MODIS,2017,Jan,8093
+Ivory Coast,MODIS,2017,Feb,4430
+Ivory Coast,MODIS,2017,Mar,1743
+Ivory Coast,MODIS,2017,Apr,850
+Ivory Coast,MODIS,2017,May,157
+Ivory Coast,MODIS,2017,Jun,45
+Ivory Coast,MODIS,2017,Jul,30
+Ivory Coast,MODIS,2017,Aug,14
+Ivory Coast,MODIS,2017,Sep,16
+Ivory Coast,MODIS,2017,Oct,95
+Ivory Coast,MODIS,2017,Nov,1113
+Ivory Coast,MODIS,2017,Dec,9205
+Ivory Coast,MODIS,2018,Jan,8992
+Ivory Coast,MODIS,2018,Feb,4067
+Ivory Coast,MODIS,2018,Mar,1165
+Ivory Coast,MODIS,2018,Apr,411
+Ivory Coast,MODIS,2018,May,218
+Ivory Coast,MODIS,2018,Jun,68
+Ivory Coast,MODIS,2018,Jul,37
+Ivory Coast,MODIS,2018,Aug,29
+Ivory Coast,MODIS,2018,Sep,19
+Ivory Coast,MODIS,2018,Oct,64
+Ivory Coast,MODIS,2018,Nov,355
+Ivory Coast,MODIS,2018,Dec,8618
+Ivory Coast,MODIS,2019,Jan,6310
+Ivory Coast,MODIS,2019,Feb,3772
+Ivory Coast,MODIS,2019,Mar,3495
+Ivory Coast,MODIS,2019,Apr,578
+Ivory Coast,MODIS,2019,May,243
+Ivory Coast,MODIS,2019,Jun,43
+Ivory Coast,MODIS,2019,Jul,19
+Ivory Coast,MODIS,2019,Aug,13
+Ivory Coast,MODIS,2019,Sep,28
+Ivory Coast,MODIS,2019,Oct,47
+Ivory Coast,MODIS,2019,Nov,374
+Ivory Coast,MODIS,2019,Dec,6597
+Cape Verde,MODIS,2016,Jan,0
+Cape Verde,MODIS,2016,Feb,0
+Cape Verde,MODIS,2016,Mar,0
+Cape Verde,MODIS,2016,Apr,0
+Cape Verde,MODIS,2016,May,0
+Cape Verde,MODIS,2016,Jun,1
+Cape Verde,MODIS,2016,Jul,0
+Cape Verde,MODIS,2016,Aug,1
+Cape Verde,MODIS,2016,Sep,0
+Cape Verde,MODIS,2016,Oct,0
+Cape Verde,MODIS,2016,Nov,2
+Cape Verde,MODIS,2016,Dec,0
+Cape Verde,MODIS,2017,Jan,0
+Cape Verde,MODIS,2017,Feb,1
+Cape Verde,MODIS,2017,Mar,2
+Cape Verde,MODIS,2017,Apr,1
+Cape Verde,MODIS,2017,May,0
+Cape Verde,MODIS,2017,Jun,1
+Cape Verde,MODIS,2017,Jul,0
+Cape Verde,MODIS,2017,Aug,7
+Cape Verde,MODIS,2017,Sep,1
+Cape Verde,MODIS,2017,Oct,1
+Cape Verde,MODIS,2017,Nov,0
+Cape Verde,MODIS,2017,Dec,1
+Cape Verde,MODIS,2018,Jan,0
+Cape Verde,MODIS,2018,Feb,0
+Cape Verde,MODIS,2018,Mar,0
+Cape Verde,MODIS,2018,Apr,0
+Cape Verde,MODIS,2018,May,0
+Cape Verde,MODIS,2018,Jun,0
+Cape Verde,MODIS,2018,Jul,5
+Cape Verde,MODIS,2018,Aug,1
+Cape Verde,MODIS,2018,Sep,1
+Cape Verde,MODIS,2018,Oct,1
+Cape Verde,MODIS,2018,Nov,0
+Cape Verde,MODIS,2018,Dec,0
+Cape Verde,MODIS,2019,Jan,0
+Cape Verde,MODIS,2019,Feb,0
+Cape Verde,MODIS,2019,Mar,0
+Cape Verde,MODIS,2019,Apr,0
+Cape Verde,MODIS,2019,May,0
+Cape Verde,MODIS,2019,Jun,0
+Cape Verde,MODIS,2019,Jul,0
+Cape Verde,MODIS,2019,Aug,1
+Cape Verde,MODIS,2019,Sep,2
+Cape Verde,MODIS,2019,Oct,1
+Cape Verde,MODIS,2019,Nov,1
+Cape Verde,MODIS,2019,Dec,0
+Ghana,MODIS,2016,Jan,15085
+Ghana,MODIS,2016,Feb,5373
+Ghana,MODIS,2016,Mar,1387
+Ghana,MODIS,2016,Apr,606
+Ghana,MODIS,2016,May,70
+Ghana,MODIS,2016,Jun,9
+Ghana,MODIS,2016,Jul,14
+Ghana,MODIS,2016,Aug,10
+Ghana,MODIS,2016,Sep,14
+Ghana,MODIS,2016,Oct,163
+Ghana,MODIS,2016,Nov,5890
+Ghana,MODIS,2016,Dec,16341
+Ghana,MODIS,2017,Jan,15920
+Ghana,MODIS,2017,Feb,4323
+Ghana,MODIS,2017,Mar,1678
+Ghana,MODIS,2017,Apr,660
+Ghana,MODIS,2017,May,75
+Ghana,MODIS,2017,Jun,5
+Ghana,MODIS,2017,Jul,1
+Ghana,MODIS,2017,Aug,11
+Ghana,MODIS,2017,Sep,43
+Ghana,MODIS,2017,Oct,330
+Ghana,MODIS,2017,Nov,10841
+Ghana,MODIS,2017,Dec,19865
+Ghana,MODIS,2018,Jan,16489
+Ghana,MODIS,2018,Feb,4176
+Ghana,MODIS,2018,Mar,745
+Ghana,MODIS,2018,Apr,350
+Ghana,MODIS,2018,May,141
+Ghana,MODIS,2018,Jun,9
+Ghana,MODIS,2018,Jul,7
+Ghana,MODIS,2018,Aug,38
+Ghana,MODIS,2018,Sep,14
+Ghana,MODIS,2018,Oct,84
+Ghana,MODIS,2018,Nov,3709
+Ghana,MODIS,2018,Dec,23070
+Ghana,MODIS,2019,Jan,17460
+Ghana,MODIS,2019,Feb,4094
+Ghana,MODIS,2019,Mar,2328
+Ghana,MODIS,2019,Apr,578
+Ghana,MODIS,2019,May,59
+Ghana,MODIS,2019,Jun,10
+Ghana,MODIS,2019,Jul,3
+Ghana,MODIS,2019,Aug,33
+Ghana,MODIS,2019,Sep,6
+Ghana,MODIS,2019,Oct,33
+Ghana,MODIS,2019,Nov,3093
+Ghana,MODIS,2019,Dec,18226
+Guinea,MODIS,2016,Jan,16265
+Guinea,MODIS,2016,Feb,12064
+Guinea,MODIS,2016,Mar,9953
+Guinea,MODIS,2016,Apr,14484
+Guinea,MODIS,2016,May,5342
+Guinea,MODIS,2016,Jun,72
+Guinea,MODIS,2016,Jul,2
+Guinea,MODIS,2016,Aug,2
+Guinea,MODIS,2016,Sep,3
+Guinea,MODIS,2016,Oct,323
+Guinea,MODIS,2016,Nov,3638
+Guinea,MODIS,2016,Dec,12774
+Guinea,MODIS,2017,Jan,17168
+Guinea,MODIS,2017,Feb,11596
+Guinea,MODIS,2017,Mar,8590
+Guinea,MODIS,2017,Apr,15712
+Guinea,MODIS,2017,May,2860
+Guinea,MODIS,2017,Jun,82
+Guinea,MODIS,2017,Jul,7
+Guinea,MODIS,2017,Aug,3
+Guinea,MODIS,2017,Sep,9
+Guinea,MODIS,2017,Oct,2257
+Guinea,MODIS,2017,Nov,4592
+Guinea,MODIS,2017,Dec,14792
+Guinea,MODIS,2018,Jan,18930
+Guinea,MODIS,2018,Feb,10605
+Guinea,MODIS,2018,Mar,7493
+Guinea,MODIS,2018,Apr,9428
+Guinea,MODIS,2018,May,4642
+Guinea,MODIS,2018,Jun,154
+Guinea,MODIS,2018,Jul,5
+Guinea,MODIS,2018,Aug,0
+Guinea,MODIS,2018,Sep,3
+Guinea,MODIS,2018,Oct,291
+Guinea,MODIS,2018,Nov,2872
+Guinea,MODIS,2018,Dec,9760
+Guinea,MODIS,2019,Jan,16623
+Guinea,MODIS,2019,Feb,12483
+Guinea,MODIS,2019,Mar,10088
+Guinea,MODIS,2019,Apr,11523
+Guinea,MODIS,2019,May,6962
+Guinea,MODIS,2019,Jun,124
+Guinea,MODIS,2019,Jul,4
+Guinea,MODIS,2019,Aug,1
+Guinea,MODIS,2019,Sep,5
+Guinea,MODIS,2019,Oct,470
+Guinea,MODIS,2019,Nov,3415
+Guinea,MODIS,2019,Dec,12093
+Guinea-Bissau,MODIS,2016,Jan,377
+Guinea-Bissau,MODIS,2016,Feb,673
+Guinea-Bissau,MODIS,2016,Mar,1145
+Guinea-Bissau,MODIS,2016,Apr,681
+Guinea-Bissau,MODIS,2016,May,1759
+Guinea-Bissau,MODIS,2016,Jun,226
+Guinea-Bissau,MODIS,2016,Jul,10
+Guinea-Bissau,MODIS,2016,Aug,1
+Guinea-Bissau,MODIS,2016,Sep,1
+Guinea-Bissau,MODIS,2016,Oct,14
+Guinea-Bissau,MODIS,2016,Nov,55
+Guinea-Bissau,MODIS,2016,Dec,118
+Guinea-Bissau,MODIS,2017,Jan,332
+Guinea-Bissau,MODIS,2017,Feb,863
+Guinea-Bissau,MODIS,2017,Mar,622
+Guinea-Bissau,MODIS,2017,Apr,494
+Guinea-Bissau,MODIS,2017,May,990
+Guinea-Bissau,MODIS,2017,Jun,191
+Guinea-Bissau,MODIS,2017,Jul,6
+Guinea-Bissau,MODIS,2017,Aug,0
+Guinea-Bissau,MODIS,2017,Sep,1
+Guinea-Bissau,MODIS,2017,Oct,43
+Guinea-Bissau,MODIS,2017,Nov,58
+Guinea-Bissau,MODIS,2017,Dec,209
+Guinea-Bissau,MODIS,2018,Jan,414
+Guinea-Bissau,MODIS,2018,Feb,826
+Guinea-Bissau,MODIS,2018,Mar,687
+Guinea-Bissau,MODIS,2018,Apr,496
+Guinea-Bissau,MODIS,2018,May,1286
+Guinea-Bissau,MODIS,2018,Jun,401
+Guinea-Bissau,MODIS,2018,Jul,1
+Guinea-Bissau,MODIS,2018,Aug,0
+Guinea-Bissau,MODIS,2018,Sep,1
+Guinea-Bissau,MODIS,2018,Oct,40
+Guinea-Bissau,MODIS,2018,Nov,55
+Guinea-Bissau,MODIS,2018,Dec,124
+Guinea-Bissau,MODIS,2019,Jan,399
+Guinea-Bissau,MODIS,2019,Feb,952
+Guinea-Bissau,MODIS,2019,Mar,958
+Guinea-Bissau,MODIS,2019,Apr,360
+Guinea-Bissau,MODIS,2019,May,1545
+Guinea-Bissau,MODIS,2019,Jun,359
+Guinea-Bissau,MODIS,2019,Jul,7
+Guinea-Bissau,MODIS,2019,Aug,0
+Guinea-Bissau,MODIS,2019,Sep,0
+Guinea-Bissau,MODIS,2019,Oct,38
+Guinea-Bissau,MODIS,2019,Nov,67
+Guinea-Bissau,MODIS,2019,Dec,158
+Liberia,MODIS,2016,Jan,271
+Liberia,MODIS,2016,Feb,945
+Liberia,MODIS,2016,Mar,2505
+Liberia,MODIS,2016,Apr,4166
+Liberia,MODIS,2016,May,954
+Liberia,MODIS,2016,Jun,54
+Liberia,MODIS,2016,Jul,8
+Liberia,MODIS,2016,Aug,2
+Liberia,MODIS,2016,Sep,1
+Liberia,MODIS,2016,Oct,4
+Liberia,MODIS,2016,Nov,2
+Liberia,MODIS,2016,Dec,55
+Liberia,MODIS,2017,Jan,147
+Liberia,MODIS,2017,Feb,433
+Liberia,MODIS,2017,Mar,2585
+Liberia,MODIS,2017,Apr,3896
+Liberia,MODIS,2017,May,297
+Liberia,MODIS,2017,Jun,16
+Liberia,MODIS,2017,Jul,7
+Liberia,MODIS,2017,Aug,0
+Liberia,MODIS,2017,Sep,0
+Liberia,MODIS,2017,Oct,2
+Liberia,MODIS,2017,Nov,9
+Liberia,MODIS,2017,Dec,73
+Liberia,MODIS,2018,Jan,218
+Liberia,MODIS,2018,Feb,1202
+Liberia,MODIS,2018,Mar,1966
+Liberia,MODIS,2018,Apr,1749
+Liberia,MODIS,2018,May,328
+Liberia,MODIS,2018,Jun,17
+Liberia,MODIS,2018,Jul,2
+Liberia,MODIS,2018,Aug,0
+Liberia,MODIS,2018,Sep,1
+Liberia,MODIS,2018,Oct,1
+Liberia,MODIS,2018,Nov,8
+Liberia,MODIS,2018,Dec,66
+Liberia,MODIS,2019,Jan,326
+Liberia,MODIS,2019,Feb,2149
+Liberia,MODIS,2019,Mar,7721
+Liberia,MODIS,2019,Apr,2652
+Liberia,MODIS,2019,May,297
+Liberia,MODIS,2019,Jun,15
+Liberia,MODIS,2019,Jul,0
+Liberia,MODIS,2019,Aug,0
+Liberia,MODIS,2019,Sep,0
+Liberia,MODIS,2019,Oct,0
+Liberia,MODIS,2019,Nov,5
+Liberia,MODIS,2019,Dec,56
+Mali,MODIS,2016,Jan,6421
+Mali,MODIS,2016,Feb,3370
+Mali,MODIS,2016,Mar,2839
+Mali,MODIS,2016,Apr,1712
+Mali,MODIS,2016,May,655
+Mali,MODIS,2016,Jun,436
+Mali,MODIS,2016,Jul,56
+Mali,MODIS,2016,Aug,4
+Mali,MODIS,2016,Sep,32
+Mali,MODIS,2016,Oct,3805
+Mali,MODIS,2016,Nov,7876
+Mali,MODIS,2016,Dec,6593
+Mali,MODIS,2017,Jan,5432
+Mali,MODIS,2017,Feb,3482
+Mali,MODIS,2017,Mar,2788
+Mali,MODIS,2017,Apr,1656
+Mali,MODIS,2017,May,506
+Mali,MODIS,2017,Jun,322
+Mali,MODIS,2017,Jul,55
+Mali,MODIS,2017,Aug,3
+Mali,MODIS,2017,Sep,45
+Mali,MODIS,2017,Oct,7793
+Mali,MODIS,2017,Nov,6388
+Mali,MODIS,2017,Dec,5205
+Mali,MODIS,2018,Jan,3942
+Mali,MODIS,2018,Feb,1940
+Mali,MODIS,2018,Mar,2729
+Mali,MODIS,2018,Apr,1563
+Mali,MODIS,2018,May,739
+Mali,MODIS,2018,Jun,134
+Mali,MODIS,2018,Jul,12
+Mali,MODIS,2018,Aug,2
+Mali,MODIS,2018,Sep,5
+Mali,MODIS,2018,Oct,1764
+Mali,MODIS,2018,Nov,6158
+Mali,MODIS,2018,Dec,6442
+Mali,MODIS,2019,Jan,3879
+Mali,MODIS,2019,Feb,2471
+Mali,MODIS,2019,Mar,1870
+Mali,MODIS,2019,Apr,2217
+Mali,MODIS,2019,May,1227
+Mali,MODIS,2019,Jun,439
+Mali,MODIS,2019,Jul,68
+Mali,MODIS,2019,Aug,4
+Mali,MODIS,2019,Sep,32
+Mali,MODIS,2019,Oct,3168
+Mali,MODIS,2019,Nov,7691
+Mali,MODIS,2019,Dec,6623
+Mauritania,MODIS,2016,Jan,45
+Mauritania,MODIS,2016,Feb,37
+Mauritania,MODIS,2016,Mar,24
+Mauritania,MODIS,2016,Apr,53
+Mauritania,MODIS,2016,May,5
+Mauritania,MODIS,2016,Jun,7
+Mauritania,MODIS,2016,Jul,3
+Mauritania,MODIS,2016,Aug,0
+Mauritania,MODIS,2016,Sep,3
+Mauritania,MODIS,2016,Oct,63
+Mauritania,MODIS,2016,Nov,75
+Mauritania,MODIS,2016,Dec,78
+Mauritania,MODIS,2017,Jan,34
+Mauritania,MODIS,2017,Feb,41
+Mauritania,MODIS,2017,Mar,34
+Mauritania,MODIS,2017,Apr,64
+Mauritania,MODIS,2017,May,8
+Mauritania,MODIS,2017,Jun,5
+Mauritania,MODIS,2017,Jul,13
+Mauritania,MODIS,2017,Aug,8
+Mauritania,MODIS,2017,Sep,4
+Mauritania,MODIS,2017,Oct,41
+Mauritania,MODIS,2017,Nov,19
+Mauritania,MODIS,2017,Dec,4
+Mauritania,MODIS,2018,Jan,14
+Mauritania,MODIS,2018,Feb,5
+Mauritania,MODIS,2018,Mar,6
+Mauritania,MODIS,2018,Apr,2
+Mauritania,MODIS,2018,May,12
+Mauritania,MODIS,2018,Jun,3
+Mauritania,MODIS,2018,Jul,7
+Mauritania,MODIS,2018,Aug,5
+Mauritania,MODIS,2018,Sep,4
+Mauritania,MODIS,2018,Oct,20
+Mauritania,MODIS,2018,Nov,8
+Mauritania,MODIS,2018,Dec,45
+Mauritania,MODIS,2019,Jan,49
+Mauritania,MODIS,2019,Feb,17
+Mauritania,MODIS,2019,Mar,27
+Mauritania,MODIS,2019,Apr,9
+Mauritania,MODIS,2019,May,63
+Mauritania,MODIS,2019,Jun,13
+Mauritania,MODIS,2019,Jul,17
+Mauritania,MODIS,2019,Aug,11
+Mauritania,MODIS,2019,Sep,3
+Mauritania,MODIS,2019,Oct,36
+Mauritania,MODIS,2019,Nov,22
+Mauritania,MODIS,2019,Dec,43
+Niger,MODIS,2016,Jan,46
+Niger,MODIS,2016,Feb,41
+Niger,MODIS,2016,Mar,50
+Niger,MODIS,2016,Apr,43
+Niger,MODIS,2016,May,27
+Niger,MODIS,2016,Jun,8
+Niger,MODIS,2016,Jul,1
+Niger,MODIS,2016,Aug,2
+Niger,MODIS,2016,Sep,55
+Niger,MODIS,2016,Oct,359
+Niger,MODIS,2016,Nov,309
+Niger,MODIS,2016,Dec,161
+Niger,MODIS,2017,Jan,122
+Niger,MODIS,2017,Feb,63
+Niger,MODIS,2017,Mar,99
+Niger,MODIS,2017,Apr,25
+Niger,MODIS,2017,May,27
+Niger,MODIS,2017,Jun,1
+Niger,MODIS,2017,Jul,0
+Niger,MODIS,2017,Aug,0
+Niger,MODIS,2017,Sep,3
+Niger,MODIS,2017,Oct,241
+Niger,MODIS,2017,Nov,285
+Niger,MODIS,2017,Dec,117
+Niger,MODIS,2018,Jan,57
+Niger,MODIS,2018,Feb,75
+Niger,MODIS,2018,Mar,139
+Niger,MODIS,2018,Apr,103
+Niger,MODIS,2018,May,29
+Niger,MODIS,2018,Jun,15
+Niger,MODIS,2018,Jul,2
+Niger,MODIS,2018,Aug,2
+Niger,MODIS,2018,Sep,8
+Niger,MODIS,2018,Oct,167
+Niger,MODIS,2018,Nov,381
+Niger,MODIS,2018,Dec,267
+Niger,MODIS,2019,Jan,127
+Niger,MODIS,2019,Feb,63
+Niger,MODIS,2019,Mar,148
+Niger,MODIS,2019,Apr,115
+Niger,MODIS,2019,May,27
+Niger,MODIS,2019,Jun,4
+Niger,MODIS,2019,Jul,3
+Niger,MODIS,2019,Aug,0
+Niger,MODIS,2019,Sep,0
+Niger,MODIS,2019,Oct,77
+Niger,MODIS,2019,Nov,493
+Niger,MODIS,2019,Dec,193
+Nigeria,MODIS,2016,Jan,30440
+Nigeria,MODIS,2016,Feb,12489
+Nigeria,MODIS,2016,Mar,2709
+Nigeria,MODIS,2016,Apr,934
+Nigeria,MODIS,2016,May,315
+Nigeria,MODIS,2016,Jun,178
+Nigeria,MODIS,2016,Jul,128
+Nigeria,MODIS,2016,Aug,64
+Nigeria,MODIS,2016,Sep,127
+Nigeria,MODIS,2016,Oct,2930
+Nigeria,MODIS,2016,Nov,5624
+Nigeria,MODIS,2016,Dec,16933
+Nigeria,MODIS,2017,Jan,20255
+Nigeria,MODIS,2017,Feb,18158
+Nigeria,MODIS,2017,Mar,6233
+Nigeria,MODIS,2017,Apr,1374
+Nigeria,MODIS,2017,May,385
+Nigeria,MODIS,2017,Jun,191
+Nigeria,MODIS,2017,Jul,131
+Nigeria,MODIS,2017,Aug,68
+Nigeria,MODIS,2017,Sep,178
+Nigeria,MODIS,2017,Oct,4877
+Nigeria,MODIS,2017,Nov,6826
+Nigeria,MODIS,2017,Dec,13105
+Nigeria,MODIS,2018,Jan,34727
+Nigeria,MODIS,2018,Feb,6984
+Nigeria,MODIS,2018,Mar,4615
+Nigeria,MODIS,2018,Apr,987
+Nigeria,MODIS,2018,May,429
+Nigeria,MODIS,2018,Jun,223
+Nigeria,MODIS,2018,Jul,96
+Nigeria,MODIS,2018,Aug,126
+Nigeria,MODIS,2018,Sep,153
+Nigeria,MODIS,2018,Oct,2586
+Nigeria,MODIS,2018,Nov,4580
+Nigeria,MODIS,2018,Dec,13021
+Nigeria,MODIS,2019,Jan,21460
+Nigeria,MODIS,2019,Feb,11662
+Nigeria,MODIS,2019,Mar,4177
+Nigeria,MODIS,2019,Apr,1909
+Nigeria,MODIS,2019,May,567
+Nigeria,MODIS,2019,Jun,165
+Nigeria,MODIS,2019,Jul,141
+Nigeria,MODIS,2019,Aug,110
+Nigeria,MODIS,2019,Sep,95
+Nigeria,MODIS,2019,Oct,449
+Nigeria,MODIS,2019,Nov,4644
+Nigeria,MODIS,2019,Dec,13134
+Senegal,MODIS,2016,Jan,3426
+Senegal,MODIS,2016,Feb,2938
+Senegal,MODIS,2016,Mar,2113
+Senegal,MODIS,2016,Apr,876
+Senegal,MODIS,2016,May,666
+Senegal,MODIS,2016,Jun,537
+Senegal,MODIS,2016,Jul,36
+Senegal,MODIS,2016,Aug,4
+Senegal,MODIS,2016,Sep,0
+Senegal,MODIS,2016,Oct,2073
+Senegal,MODIS,2016,Nov,2627
+Senegal,MODIS,2016,Dec,3461
+Senegal,MODIS,2017,Jan,3200
+Senegal,MODIS,2017,Feb,2651
+Senegal,MODIS,2017,Mar,1707
+Senegal,MODIS,2017,Apr,981
+Senegal,MODIS,2017,May,389
+Senegal,MODIS,2017,Jun,344
+Senegal,MODIS,2017,Jul,26
+Senegal,MODIS,2017,Aug,12
+Senegal,MODIS,2017,Sep,1
+Senegal,MODIS,2017,Oct,3195
+Senegal,MODIS,2017,Nov,2969
+Senegal,MODIS,2017,Dec,4099
+Senegal,MODIS,2018,Jan,3334
+Senegal,MODIS,2018,Feb,1772
+Senegal,MODIS,2018,Mar,1735
+Senegal,MODIS,2018,Apr,802
+Senegal,MODIS,2018,May,584
+Senegal,MODIS,2018,Jun,257
+Senegal,MODIS,2018,Jul,28
+Senegal,MODIS,2018,Aug,11
+Senegal,MODIS,2018,Sep,7
+Senegal,MODIS,2018,Oct,581
+Senegal,MODIS,2018,Nov,2545
+Senegal,MODIS,2018,Dec,3451
+Senegal,MODIS,2019,Jan,2667
+Senegal,MODIS,2019,Feb,2759
+Senegal,MODIS,2019,Mar,1675
+Senegal,MODIS,2019,Apr,852
+Senegal,MODIS,2019,May,534
+Senegal,MODIS,2019,Jun,374
+Senegal,MODIS,2019,Jul,55
+Senegal,MODIS,2019,Aug,35
+Senegal,MODIS,2019,Sep,0
+Senegal,MODIS,2019,Oct,1407
+Senegal,MODIS,2019,Nov,3445
+Senegal,MODIS,2019,Dec,3483
+Sierra Leone,MODIS,2016,Jan,3391
+Sierra Leone,MODIS,2016,Feb,2802
+Sierra Leone,MODIS,2016,Mar,5286
+Sierra Leone,MODIS,2016,Apr,11474
+Sierra Leone,MODIS,2016,May,647
+Sierra Leone,MODIS,2016,Jun,26
+Sierra Leone,MODIS,2016,Jul,2
+Sierra Leone,MODIS,2016,Aug,0
+Sierra Leone,MODIS,2016,Sep,2
+Sierra Leone,MODIS,2016,Oct,4
+Sierra Leone,MODIS,2016,Nov,7
+Sierra Leone,MODIS,2016,Dec,635
+Sierra Leone,MODIS,2017,Jan,2792
+Sierra Leone,MODIS,2017,Feb,2937
+Sierra Leone,MODIS,2017,Mar,6352
+Sierra Leone,MODIS,2017,Apr,12017
+Sierra Leone,MODIS,2017,May,209
+Sierra Leone,MODIS,2017,Jun,4
+Sierra Leone,MODIS,2017,Jul,0
+Sierra Leone,MODIS,2017,Aug,0
+Sierra Leone,MODIS,2017,Sep,2
+Sierra Leone,MODIS,2017,Oct,7
+Sierra Leone,MODIS,2017,Nov,11
+Sierra Leone,MODIS,2017,Dec,923
+Sierra Leone,MODIS,2018,Jan,4189
+Sierra Leone,MODIS,2018,Feb,2703
+Sierra Leone,MODIS,2018,Mar,4669
+Sierra Leone,MODIS,2018,Apr,7082
+Sierra Leone,MODIS,2018,May,495
+Sierra Leone,MODIS,2018,Jun,5
+Sierra Leone,MODIS,2018,Jul,1
+Sierra Leone,MODIS,2018,Aug,0
+Sierra Leone,MODIS,2018,Sep,1
+Sierra Leone,MODIS,2018,Oct,2
+Sierra Leone,MODIS,2018,Nov,33
+Sierra Leone,MODIS,2018,Dec,751
+Sierra Leone,MODIS,2019,Jan,3413
+Sierra Leone,MODIS,2019,Feb,2924
+Sierra Leone,MODIS,2019,Mar,9119
+Sierra Leone,MODIS,2019,Apr,7367
+Sierra Leone,MODIS,2019,May,743
+Sierra Leone,MODIS,2019,Jun,17
+Sierra Leone,MODIS,2019,Jul,1
+Sierra Leone,MODIS,2019,Aug,1
+Sierra Leone,MODIS,2019,Sep,0
+Sierra Leone,MODIS,2019,Oct,6
+Sierra Leone,MODIS,2019,Nov,21
+Sierra Leone,MODIS,2019,Dec,998
+The Gambia,MODIS,2016,Jan,85
+The Gambia,MODIS,2016,Feb,203
+The Gambia,MODIS,2016,Mar,146
+The Gambia,MODIS,2016,Apr,82
+The Gambia,MODIS,2016,May,99
+The Gambia,MODIS,2016,Jun,62
+The Gambia,MODIS,2016,Jul,0
+The Gambia,MODIS,2016,Aug,0
+The Gambia,MODIS,2016,Sep,0
+The Gambia,MODIS,2016,Oct,1
+The Gambia,MODIS,2016,Nov,28
+The Gambia,MODIS,2016,Dec,59
+The Gambia,MODIS,2017,Jan,218
+The Gambia,MODIS,2017,Feb,231
+The Gambia,MODIS,2017,Mar,239
+The Gambia,MODIS,2017,Apr,101
+The Gambia,MODIS,2017,May,51
+The Gambia,MODIS,2017,Jun,21
+The Gambia,MODIS,2017,Jul,0
+The Gambia,MODIS,2017,Aug,0
+The Gambia,MODIS,2017,Sep,0
+The Gambia,MODIS,2017,Oct,9
+The Gambia,MODIS,2017,Nov,21
+The Gambia,MODIS,2017,Dec,95
+The Gambia,MODIS,2018,Jan,221
+The Gambia,MODIS,2018,Feb,189
+The Gambia,MODIS,2018,Mar,171
+The Gambia,MODIS,2018,Apr,124
+The Gambia,MODIS,2018,May,75
+The Gambia,MODIS,2018,Jun,26
+The Gambia,MODIS,2018,Jul,1
+The Gambia,MODIS,2018,Aug,0
+The Gambia,MODIS,2018,Sep,0
+The Gambia,MODIS,2018,Oct,0
+The Gambia,MODIS,2018,Nov,17
+The Gambia,MODIS,2018,Dec,101
+Togo,MODIS,2019,Jan,94
+Togo,MODIS,2019,Feb,114
+Togo,MODIS,2019,Mar,191
+Togo,MODIS,2019,Apr,95
+Togo,MODIS,2019,May,65
+Togo,MODIS,2019,Jun,51
+Togo,MODIS,2019,Jul,2
+Togo,MODIS,2019,Aug,0
+Togo,MODIS,2019,Sep,0
+Togo,MODIS,2019,Oct,0
+Togo,MODIS,2019,Nov,39
+Togo,MODIS,2019,Dec,79
+Togo,MODIS,2016,Jan,3330
+Togo,MODIS,2016,Feb,902
+Togo,MODIS,2016,Mar,199
+Togo,MODIS,2016,Apr,52
+Togo,MODIS,2016,May,7
+Togo,MODIS,2016,Jun,3
+Togo,MODIS,2016,Jul,1
+Togo,MODIS,2016,Aug,2
+Togo,MODIS,2016,Sep,4
+Togo,MODIS,2016,Oct,13
+Togo,MODIS,2016,Nov,848
+Togo,MODIS,2016,Dec,3555
+Togo,MODIS,2017,Jan,2655
+Togo,MODIS,2017,Feb,1372
+Togo,MODIS,2017,Mar,541
+Togo,MODIS,2017,Apr,38
+Togo,MODIS,2017,May,11
+Togo,MODIS,2017,Jun,1
+Togo,MODIS,2017,Jul,2
+Togo,MODIS,2017,Aug,0
+Togo,MODIS,2017,Sep,0
+Togo,MODIS,2017,Oct,28
+Togo,MODIS,2017,Nov,1775
+Togo,MODIS,2017,Dec,3699
+Togo,MODIS,2018,Jan,3382
+Togo,MODIS,2018,Feb,894
+Togo,MODIS,2018,Mar,237
+Togo,MODIS,2018,Apr,28
+Togo,MODIS,2018,May,5
+Togo,MODIS,2018,Jun,1
+Togo,MODIS,2018,Jul,1
+Togo,MODIS,2018,Aug,2
+Togo,MODIS,2018,Sep,1
+Togo,MODIS,2018,Oct,11
+Togo,MODIS,2018,Nov,476
+Togo,MODIS,2018,Dec,4012
+Togo,MODIS,2019,Jan,2822
+Togo,MODIS,2019,Feb,1152
+Togo,MODIS,2019,Mar,422
+Togo,MODIS,2019,Apr,67
+Togo,MODIS,2019,May,4
+Togo,MODIS,2019,Jun,4
+Togo,MODIS,2019,Jul,1
+Togo,MODIS,2019,Aug,2
+Togo,MODIS,2019,Sep,0
+Togo,MODIS,2019,Oct,3
+Togo,MODIS,2019,Nov,168
+Togo,MODIS,2019,Dec,3004
+Benin,VIIRS,2016,Jan,30063
+Benin,VIIRS,2016,Feb,13003
+Benin,VIIRS,2016,Mar,5014
+Benin,VIIRS,2016,Apr,710
+Benin,VIIRS,2016,May,259
+Benin,VIIRS,2016,Jun,75
+Benin,VIIRS,2016,Jul,45
+Benin,VIIRS,2016,Aug,29
+Benin,VIIRS,2016,Sep,70
+Benin,VIIRS,2016,Oct,1268
+Benin,VIIRS,2016,Nov,13500
+Benin,VIIRS,2016,Dec,20549
+Benin,VIIRS,2017,Jan,23174
+Benin,VIIRS,2017,Feb,22494
+Benin,VIIRS,2017,Mar,6946
+Benin,VIIRS,2017,Apr,1497
+Benin,VIIRS,2017,May,263
+Benin,VIIRS,2017,Jun,49
+Benin,VIIRS,2017,Jul,28
+Benin,VIIRS,2017,Aug,17
+Benin,VIIRS,2017,Sep,66
+Benin,VIIRS,2017,Oct,1091
+Benin,VIIRS,2017,Nov,15883
+Benin,VIIRS,2017,Dec,14721
+Benin,VIIRS,2018,Jan,23721
+Benin,VIIRS,2018,Feb,17315
+Benin,VIIRS,2018,Mar,6766
+Benin,VIIRS,2018,Apr,1280
+Benin,VIIRS,2018,May,291
+Benin,VIIRS,2018,Jun,66
+Benin,VIIRS,2018,Jul,35
+Benin,VIIRS,2018,Aug,68
+Benin,VIIRS,2018,Sep,22
+Benin,VIIRS,2018,Oct,164
+Benin,VIIRS,2018,Nov,9442
+Benin,VIIRS,2018,Dec,13938
+Benin,VIIRS,2019,Jan,22522
+Benin,VIIRS,2019,Feb,21775
+Benin,VIIRS,2019,Mar,8087
+Benin,VIIRS,2019,Apr,1426
+Benin,VIIRS,2019,May,349
+Benin,VIIRS,2019,Jun,91
+Benin,VIIRS,2019,Jul,25
+Benin,VIIRS,2019,Aug,82
+Benin,VIIRS,2019,Sep,22
+Benin,VIIRS,2019,Oct,26
+Benin,VIIRS,2019,Nov,8409
+Benin,VIIRS,2019,Dec,16033
+Burkina Faso,VIIRS,2016,Jan,13488
+Burkina Faso,VIIRS,2016,Feb,9556
+Burkina Faso,VIIRS,2016,Mar,4855
+Burkina Faso,VIIRS,2016,Apr,991
+Burkina Faso,VIIRS,2016,May,355
+Burkina Faso,VIIRS,2016,Jun,163
+Burkina Faso,VIIRS,2016,Jul,10
+Burkina Faso,VIIRS,2016,Aug,0
+Burkina Faso,VIIRS,2016,Sep,11
+Burkina Faso,VIIRS,2016,Oct,5511
+Burkina Faso,VIIRS,2016,Nov,17074
+Burkina Faso,VIIRS,2016,Dec,23464
+Burkina Faso,VIIRS,2017,Jan,17931
+Burkina Faso,VIIRS,2017,Feb,9002
+Burkina Faso,VIIRS,2017,Mar,3332
+Burkina Faso,VIIRS,2017,Apr,1023
+Burkina Faso,VIIRS,2017,May,390
+Burkina Faso,VIIRS,2017,Jun,94
+Burkina Faso,VIIRS,2017,Jul,10
+Burkina Faso,VIIRS,2017,Aug,2
+Burkina Faso,VIIRS,2017,Sep,11
+Burkina Faso,VIIRS,2017,Oct,6325
+Burkina Faso,VIIRS,2017,Nov,22641
+Burkina Faso,VIIRS,2017,Dec,15335
+Burkina Faso,VIIRS,2018,Jan,12003
+Burkina Faso,VIIRS,2018,Feb,5271
+Burkina Faso,VIIRS,2018,Mar,3656
+Burkina Faso,VIIRS,2018,Apr,1137
+Burkina Faso,VIIRS,2018,May,495
+Burkina Faso,VIIRS,2018,Jun,113
+Burkina Faso,VIIRS,2018,Jul,10
+Burkina Faso,VIIRS,2018,Aug,3
+Burkina Faso,VIIRS,2018,Sep,3
+Burkina Faso,VIIRS,2018,Oct,641
+Burkina Faso,VIIRS,2018,Nov,12122
+Burkina Faso,VIIRS,2018,Dec,17361
+Burkina Faso,VIIRS,2019,Jan,14032
+Burkina Faso,VIIRS,2019,Feb,7954
+Burkina Faso,VIIRS,2019,Mar,3347
+Burkina Faso,VIIRS,2019,Apr,1188
+Burkina Faso,VIIRS,2019,May,359
+Burkina Faso,VIIRS,2019,Jun,183
+Burkina Faso,VIIRS,2019,Jul,11
+Burkina Faso,VIIRS,2019,Aug,8
+Burkina Faso,VIIRS,2019,Sep,5
+Burkina Faso,VIIRS,2019,Oct,509
+Burkina Faso,VIIRS,2019,Nov,13793
+Burkina Faso,VIIRS,2019,Dec,19489
+Ivory Coast,VIIRS,2016,Jan,49697
+Ivory Coast,VIIRS,2016,Feb,40119
+Ivory Coast,VIIRS,2016,Mar,14034
+Ivory Coast,VIIRS,2016,Apr,7410
+Ivory Coast,VIIRS,2016,May,3256
+Ivory Coast,VIIRS,2016,Jun,1534
+Ivory Coast,VIIRS,2016,Jul,327
+Ivory Coast,VIIRS,2016,Aug,253
+Ivory Coast,VIIRS,2016,Sep,98
+Ivory Coast,VIIRS,2016,Oct,153
+Ivory Coast,VIIRS,2016,Nov,2206
+Ivory Coast,VIIRS,2016,Dec,30473
+Ivory Coast,VIIRS,2017,Jan,37270
+Ivory Coast,VIIRS,2017,Feb,22857
+Ivory Coast,VIIRS,2017,Mar,11972
+Ivory Coast,VIIRS,2017,Apr,8086
+Ivory Coast,VIIRS,2017,May,2232
+Ivory Coast,VIIRS,2017,Jun,403
+Ivory Coast,VIIRS,2017,Jul,338
+Ivory Coast,VIIRS,2017,Aug,207
+Ivory Coast,VIIRS,2017,Sep,150
+Ivory Coast,VIIRS,2017,Oct,361
+Ivory Coast,VIIRS,2017,Nov,4311
+Ivory Coast,VIIRS,2017,Dec,30248
+Ivory Coast,VIIRS,2018,Jan,39712
+Ivory Coast,VIIRS,2018,Feb,21349
+Ivory Coast,VIIRS,2018,Mar,9813
+Ivory Coast,VIIRS,2018,Apr,3730
+Ivory Coast,VIIRS,2018,May,1996
+Ivory Coast,VIIRS,2018,Jun,678
+Ivory Coast,VIIRS,2018,Jul,297
+Ivory Coast,VIIRS,2018,Aug,296
+Ivory Coast,VIIRS,2018,Sep,65
+Ivory Coast,VIIRS,2018,Oct,130
+Ivory Coast,VIIRS,2018,Nov,1413
+Ivory Coast,VIIRS,2018,Dec,28765
+Ivory Coast,VIIRS,2019,Jan,29084
+Ivory Coast,VIIRS,2019,Feb,20898
+Ivory Coast,VIIRS,2019,Mar,19589
+Ivory Coast,VIIRS,2019,Apr,4180
+Ivory Coast,VIIRS,2019,May,1775
+Ivory Coast,VIIRS,2019,Jun,568
+Ivory Coast,VIIRS,2019,Jul,173
+Ivory Coast,VIIRS,2019,Aug,202
+Ivory Coast,VIIRS,2019,Sep,87
+Ivory Coast,VIIRS,2019,Oct,86
+Ivory Coast,VIIRS,2019,Nov,1376
+Ivory Coast,VIIRS,2019,Dec,22813
+Cape Verde,VIIRS,2016,Jan,2
+Cape Verde,VIIRS,2016,Feb,0
+Cape Verde,VIIRS,2016,Mar,0
+Cape Verde,VIIRS,2016,Apr,2
+Cape Verde,VIIRS,2016,May,0
+Cape Verde,VIIRS,2016,Jun,2
+Cape Verde,VIIRS,2016,Jul,1
+Cape Verde,VIIRS,2016,Aug,2
+Cape Verde,VIIRS,2016,Sep,0
+Cape Verde,VIIRS,2016,Oct,0
+Cape Verde,VIIRS,2016,Nov,0
+Cape Verde,VIIRS,2016,Dec,0
+Cape Verde,VIIRS,2017,Jan,3
+Cape Verde,VIIRS,2017,Feb,4
+Cape Verde,VIIRS,2017,Mar,1
+Cape Verde,VIIRS,2017,Apr,2
+Cape Verde,VIIRS,2017,May,0
+Cape Verde,VIIRS,2017,Jun,9
+Cape Verde,VIIRS,2017,Jul,1
+Cape Verde,VIIRS,2017,Aug,0
+Cape Verde,VIIRS,2017,Sep,2
+Cape Verde,VIIRS,2017,Oct,3
+Cape Verde,VIIRS,2017,Nov,0
+Cape Verde,VIIRS,2017,Dec,1
+Cape Verde,VIIRS,2018,Jan,2
+Cape Verde,VIIRS,2018,Feb,0
+Cape Verde,VIIRS,2018,Mar,2
+Cape Verde,VIIRS,2018,Apr,2
+Cape Verde,VIIRS,2018,May,1
+Cape Verde,VIIRS,2018,Jun,2
+Cape Verde,VIIRS,2018,Jul,4
+Cape Verde,VIIRS,2018,Aug,2
+Cape Verde,VIIRS,2018,Sep,0
+Cape Verde,VIIRS,2018,Oct,4
+Cape Verde,VIIRS,2018,Nov,3
+Cape Verde,VIIRS,2018,Dec,0
+Cape Verde,VIIRS,2019,Jan,2
+Cape Verde,VIIRS,2019,Feb,0
+Cape Verde,VIIRS,2019,Mar,5
+Cape Verde,VIIRS,2019,Apr,0
+Cape Verde,VIIRS,2019,May,2
+Cape Verde,VIIRS,2019,Jun,0
+Cape Verde,VIIRS,2019,Jul,3
+Cape Verde,VIIRS,2019,Aug,0
+Cape Verde,VIIRS,2019,Sep,1
+Cape Verde,VIIRS,2019,Oct,0
+Cape Verde,VIIRS,2019,Nov,4
+Cape Verde,VIIRS,2019,Dec,1
+Ghana,VIIRS,2016,Jan,63160
+Ghana,VIIRS,2016,Feb,33599
+Ghana,VIIRS,2016,Mar,9853
+Ghana,VIIRS,2016,Apr,6056
+Ghana,VIIRS,2016,May,836
+Ghana,VIIRS,2016,Jun,106
+Ghana,VIIRS,2016,Jul,199
+Ghana,VIIRS,2016,Aug,324
+Ghana,VIIRS,2016,Sep,213
+Ghana,VIIRS,2016,Oct,1028
+Ghana,VIIRS,2016,Nov,23004
+Ghana,VIIRS,2016,Dec,76482
+Ghana,VIIRS,2017,Jan,73374
+Ghana,VIIRS,2017,Feb,21590
+Ghana,VIIRS,2017,Mar,11728
+Ghana,VIIRS,2017,Apr,6337
+Ghana,VIIRS,2017,May,763
+Ghana,VIIRS,2017,Jun,52
+Ghana,VIIRS,2017,Jul,84
+Ghana,VIIRS,2017,Aug,265
+Ghana,VIIRS,2017,Sep,369
+Ghana,VIIRS,2017,Oct,2525
+Ghana,VIIRS,2017,Nov,43652
+Ghana,VIIRS,2017,Dec,76933
+Ghana,VIIRS,2018,Jan,64419
+Ghana,VIIRS,2018,Feb,23121
+Ghana,VIIRS,2018,Mar,7392
+Ghana,VIIRS,2018,Apr,4782
+Ghana,VIIRS,2018,May,942
+Ghana,VIIRS,2018,Jun,132
+Ghana,VIIRS,2018,Jul,135
+Ghana,VIIRS,2018,Aug,704
+Ghana,VIIRS,2018,Sep,100
+Ghana,VIIRS,2018,Oct,512
+Ghana,VIIRS,2018,Nov,16913
+Ghana,VIIRS,2018,Dec,84001
+Ghana,VIIRS,2019,Jan,76833
+Ghana,VIIRS,2019,Feb,23245
+Ghana,VIIRS,2019,Mar,13360
+Ghana,VIIRS,2019,Apr,5162
+Ghana,VIIRS,2019,May,847
+Ghana,VIIRS,2019,Jun,100
+Ghana,VIIRS,2019,Jul,76
+Ghana,VIIRS,2019,Aug,487
+Ghana,VIIRS,2019,Sep,185
+Ghana,VIIRS,2019,Oct,159
+Ghana,VIIRS,2019,Nov,12922
+Ghana,VIIRS,2019,Dec,71488
+Guinea,VIIRS,2016,Jan,16265
+Guinea,VIIRS,2016,Feb,12064
+Guinea,VIIRS,2016,Mar,9953
+Guinea,VIIRS,2016,Apr,14484
+Guinea,VIIRS,2016,May,5342
+Guinea,VIIRS,2016,Jun,72
+Guinea,VIIRS,2016,Jul,2
+Guinea,VIIRS,2016,Aug,2
+Guinea,VIIRS,2016,Sep,3
+Guinea,VIIRS,2016,Oct,323
+Guinea,VIIRS,2016,Nov,3638
+Guinea,VIIRS,2016,Dec,12774
+Guinea,VIIRS,2017,Jan,17168
+Guinea,VIIRS,2017,Feb,11596
+Guinea,VIIRS,2017,Mar,8590
+Guinea,VIIRS,2017,Apr,15712
+Guinea,VIIRS,2017,May,2860
+Guinea,VIIRS,2017,Jun,82
+Guinea,VIIRS,2017,Jul,7
+Guinea,VIIRS,2017,Aug,3
+Guinea,VIIRS,2017,Sep,9
+Guinea,VIIRS,2017,Oct,2257
+Guinea,VIIRS,2017,Nov,4592
+Guinea,VIIRS,2017,Dec,14792
+Guinea,VIIRS,2018,Jan,18930
+Guinea,VIIRS,2018,Feb,10605
+Guinea,VIIRS,2018,Mar,7493
+Guinea,VIIRS,2018,Apr,9428
+Guinea,VIIRS,2018,May,4642
+Guinea,VIIRS,2018,Jun,154
+Guinea,VIIRS,2018,Jul,5
+Guinea,VIIRS,2018,Aug,0
+Guinea,VIIRS,2018,Sep,3
+Guinea,VIIRS,2018,Oct,291
+Guinea,VIIRS,2018,Nov,2872
+Guinea,VIIRS,2018,Dec,9760
+Guinea,VIIRS,2019,Jan,16623
+Guinea,VIIRS,2019,Feb,12483
+Guinea,VIIRS,2019,Mar,10088
+Guinea,VIIRS,2019,Apr,11523
+Guinea,VIIRS,2019,May,6962
+Guinea,VIIRS,2019,Jun,124
+Guinea,VIIRS,2019,Jul,4
+Guinea,VIIRS,2019,Aug,1
+Guinea,VIIRS,2019,Sep,5
+Guinea,VIIRS,2019,Oct,470
+Guinea,VIIRS,2019,Nov,3415
+Guinea,VIIRS,2019,Dec,12093
+Guinea-Bissau,VIIRS,2016,Jan,1344
+Guinea-Bissau,VIIRS,2016,Feb,2998
+Guinea-Bissau,VIIRS,2016,Mar,5687
+Guinea-Bissau,VIIRS,2016,Apr,2903
+Guinea-Bissau,VIIRS,2016,May,5590
+Guinea-Bissau,VIIRS,2016,Jun,1080
+Guinea-Bissau,VIIRS,2016,Jul,36
+Guinea-Bissau,VIIRS,2016,Aug,2
+Guinea-Bissau,VIIRS,2016,Sep,0
+Guinea-Bissau,VIIRS,2016,Oct,36
+Guinea-Bissau,VIIRS,2016,Nov,274
+Guinea-Bissau,VIIRS,2016,Dec,420
+Guinea-Bissau,VIIRS,2017,Jan,1405
+Guinea-Bissau,VIIRS,2017,Feb,3702
+Guinea-Bissau,VIIRS,2017,Mar,3462
+Guinea-Bissau,VIIRS,2017,Apr,2590
+Guinea-Bissau,VIIRS,2017,May,3296
+Guinea-Bissau,VIIRS,2017,Jun,847
+Guinea-Bissau,VIIRS,2017,Jul,19
+Guinea-Bissau,VIIRS,2017,Aug,1
+Guinea-Bissau,VIIRS,2017,Sep,1
+Guinea-Bissau,VIIRS,2017,Oct,144
+Guinea-Bissau,VIIRS,2017,Nov,302
+Guinea-Bissau,VIIRS,2017,Dec,628
+Guinea-Bissau,VIIRS,2018,Jan,1505
+Guinea-Bissau,VIIRS,2018,Feb,4073
+Guinea-Bissau,VIIRS,2018,Mar,3003
+Guinea-Bissau,VIIRS,2018,Apr,2475
+Guinea-Bissau,VIIRS,2018,May,5454
+Guinea-Bissau,VIIRS,2018,Jun,1192
+Guinea-Bissau,VIIRS,2018,Jul,1
+Guinea-Bissau,VIIRS,2018,Aug,2
+Guinea-Bissau,VIIRS,2018,Sep,1
+Guinea-Bissau,VIIRS,2018,Oct,157
+Guinea-Bissau,VIIRS,2018,Nov,235
+Guinea-Bissau,VIIRS,2018,Dec,614
+Guinea-Bissau,VIIRS,2019,Jan,1655
+Guinea-Bissau,VIIRS,2019,Feb,4161
+Guinea-Bissau,VIIRS,2019,Mar,4062
+Guinea-Bissau,VIIRS,2019,Apr,1889
+Guinea-Bissau,VIIRS,2019,May,5649
+Guinea-Bissau,VIIRS,2019,Jun,1371
+Guinea-Bissau,VIIRS,2019,Jul,14
+Guinea-Bissau,VIIRS,2019,Aug,0
+Guinea-Bissau,VIIRS,2019,Sep,1
+Guinea-Bissau,VIIRS,2019,Oct,132
+Guinea-Bissau,VIIRS,2019,Nov,343
+Guinea-Bissau,VIIRS,2019,Dec,696
+Liberia,VIIRS,2016,Jan,936
+Liberia,VIIRS,2016,Feb,2688
+Liberia,VIIRS,2016,Mar,8107
+Liberia,VIIRS,2016,Apr,18180
+Liberia,VIIRS,2016,May,4699
+Liberia,VIIRS,2016,Jun,1312
+Liberia,VIIRS,2016,Jul,65
+Liberia,VIIRS,2016,Aug,7
+Liberia,VIIRS,2016,Sep,1
+Liberia,VIIRS,2016,Oct,17
+Liberia,VIIRS,2016,Nov,49
+Liberia,VIIRS,2016,Dec,222
+Liberia,VIIRS,2017,Jan,532
+Liberia,VIIRS,2017,Feb,1170
+Liberia,VIIRS,2017,Mar,10217
+Liberia,VIIRS,2017,Apr,17118
+Liberia,VIIRS,2017,May,2756
+Liberia,VIIRS,2017,Jun,136
+Liberia,VIIRS,2017,Jul,18
+Liberia,VIIRS,2017,Aug,1
+Liberia,VIIRS,2017,Sep,3
+Liberia,VIIRS,2017,Oct,20
+Liberia,VIIRS,2017,Nov,56
+Liberia,VIIRS,2017,Dec,304
+Liberia,VIIRS,2018,Jan,1018
+Liberia,VIIRS,2018,Feb,3375
+Liberia,VIIRS,2018,Mar,8866
+Liberia,VIIRS,2018,Apr,9713
+Liberia,VIIRS,2018,May,3126
+Liberia,VIIRS,2018,Jun,202
+Liberia,VIIRS,2018,Jul,40
+Liberia,VIIRS,2018,Aug,10
+Liberia,VIIRS,2018,Sep,6
+Liberia,VIIRS,2018,Oct,18
+Liberia,VIIRS,2018,Nov,49
+Liberia,VIIRS,2018,Dec,421
+Liberia,VIIRS,2019,Jan,1041
+Liberia,VIIRS,2019,Feb,5405
+Liberia,VIIRS,2019,Mar,20497
+Liberia,VIIRS,2019,Apr,13357
+Liberia,VIIRS,2019,May,1426
+Liberia,VIIRS,2019,Jun,103
+Liberia,VIIRS,2019,Jul,11
+Liberia,VIIRS,2019,Aug,2
+Liberia,VIIRS,2019,Sep,0
+Liberia,VIIRS,2019,Oct,15
+Liberia,VIIRS,2019,Nov,112
+Liberia,VIIRS,2019,Dec,311
+Mali,VIIRS,2016,Jan,32639
+Mali,VIIRS,2016,Feb,23411
+Mali,VIIRS,2016,Mar,18843
+Mali,VIIRS,2016,Apr,10287
+Mali,VIIRS,2016,May,4450
+Mali,VIIRS,2016,Jun,2044
+Mali,VIIRS,2016,Jul,322
+Mali,VIIRS,2016,Aug,13
+Mali,VIIRS,2016,Sep,204
+Mali,VIIRS,2016,Oct,20780
+Mali,VIIRS,2016,Nov,35131
+Mali,VIIRS,2016,Dec,28841
+Mali,VIIRS,2017,Jan,29720
+Mali,VIIRS,2017,Feb,20076
+Mali,VIIRS,2017,Mar,17247
+Mali,VIIRS,2017,Apr,9715
+Mali,VIIRS,2017,May,2531
+Mali,VIIRS,2017,Jun,2187
+Mali,VIIRS,2017,Jul,239
+Mali,VIIRS,2017,Aug,16
+Mali,VIIRS,2017,Sep,247
+Mali,VIIRS,2017,Oct,38432
+Mali,VIIRS,2017,Nov,30862
+Mali,VIIRS,2017,Dec,21940
+Mali,VIIRS,2018,Jan,21231
+Mali,VIIRS,2018,Feb,12046
+Mali,VIIRS,2018,Mar,15543
+Mali,VIIRS,2018,Apr,9287
+Mali,VIIRS,2018,May,4714
+Mali,VIIRS,2018,Jun,1014
+Mali,VIIRS,2018,Jul,132
+Mali,VIIRS,2018,Aug,7
+Mali,VIIRS,2018,Sep,30
+Mali,VIIRS,2018,Oct,10759
+Mali,VIIRS,2018,Nov,26627
+Mali,VIIRS,2018,Dec,27602
+Mali,VIIRS,2019,Jan,21385
+Mali,VIIRS,2019,Feb,15404
+Mali,VIIRS,2019,Mar,10703
+Mali,VIIRS,2019,Apr,12691
+Mali,VIIRS,2019,May,7193
+Mali,VIIRS,2019,Jun,2771
+Mali,VIIRS,2019,Jul,415
+Mali,VIIRS,2019,Aug,54
+Mali,VIIRS,2019,Sep,107
+Mali,VIIRS,2019,Oct,14750
+Mali,VIIRS,2019,Nov,37257
+Mali,VIIRS,2019,Dec,29227
+Mauritania,VIIRS,2016,Jan,181
+Mauritania,VIIRS,2016,Feb,287
+Mauritania,VIIRS,2016,Mar,170
+Mauritania,VIIRS,2016,Apr,343
+Mauritania,VIIRS,2016,May,117
+Mauritania,VIIRS,2016,Jun,45
+Mauritania,VIIRS,2016,Jul,61
+Mauritania,VIIRS,2016,Aug,5
+Mauritania,VIIRS,2016,Sep,13
+Mauritania,VIIRS,2016,Oct,495
+Mauritania,VIIRS,2016,Nov,175
+Mauritania,VIIRS,2016,Dec,296
+Mauritania,VIIRS,2017,Jan,197
+Mauritania,VIIRS,2017,Feb,231
+Mauritania,VIIRS,2017,Mar,154
+Mauritania,VIIRS,2017,Apr,218
+Mauritania,VIIRS,2017,May,47
+Mauritania,VIIRS,2017,Jun,27
+Mauritania,VIIRS,2017,Jul,67
+Mauritania,VIIRS,2017,Aug,31
+Mauritania,VIIRS,2017,Sep,9
+Mauritania,VIIRS,2017,Oct,262
+Mauritania,VIIRS,2017,Nov,76
+Mauritania,VIIRS,2017,Dec,74
+Mauritania,VIIRS,2018,Jan,122
+Mauritania,VIIRS,2018,Feb,23
+Mauritania,VIIRS,2018,Mar,69
+Mauritania,VIIRS,2018,Apr,21
+Mauritania,VIIRS,2018,May,50
+Mauritania,VIIRS,2018,Jun,5
+Mauritania,VIIRS,2018,Jul,16
+Mauritania,VIIRS,2018,Aug,40
+Mauritania,VIIRS,2018,Sep,9
+Mauritania,VIIRS,2018,Oct,222
+Mauritania,VIIRS,2018,Nov,46
+Mauritania,VIIRS,2018,Dec,130
+Mauritania,VIIRS,2019,Jan,242
+Mauritania,VIIRS,2019,Feb,92
+Mauritania,VIIRS,2019,Mar,110
+Mauritania,VIIRS,2019,Apr,69
+Mauritania,VIIRS,2019,May,358
+Mauritania,VIIRS,2019,Jun,158
+Mauritania,VIIRS,2019,Jul,204
+Mauritania,VIIRS,2019,Aug,41
+Mauritania,VIIRS,2019,Sep,12
+Mauritania,VIIRS,2019,Oct,221
+Mauritania,VIIRS,2019,Nov,126
+Mauritania,VIIRS,2019,Dec,187
+Niger,VIIRS,2016,Jan,275
+Niger,VIIRS,2016,Feb,504
+Niger,VIIRS,2016,Mar,494
+Niger,VIIRS,2016,Apr,487
+Niger,VIIRS,2016,May,272
+Niger,VIIRS,2016,Jun,52
+Niger,VIIRS,2016,Jul,4
+Niger,VIIRS,2016,Aug,7
+Niger,VIIRS,2016,Sep,272
+Niger,VIIRS,2016,Oct,2383
+Niger,VIIRS,2016,Nov,2019
+Niger,VIIRS,2016,Dec,1096
+Niger,VIIRS,2017,Jan,774
+Niger,VIIRS,2017,Feb,548
+Niger,VIIRS,2017,Mar,762
+Niger,VIIRS,2017,Apr,387
+Niger,VIIRS,2017,May,330
+Niger,VIIRS,2017,Jun,27
+Niger,VIIRS,2017,Jul,6
+Niger,VIIRS,2017,Aug,1
+Niger,VIIRS,2017,Sep,23
+Niger,VIIRS,2017,Oct,1379
+Niger,VIIRS,2017,Nov,1407
+Niger,VIIRS,2017,Dec,756
+Niger,VIIRS,2018,Jan,624
+Niger,VIIRS,2018,Feb,433
+Niger,VIIRS,2018,Mar,1174
+Niger,VIIRS,2018,Apr,1107
+Niger,VIIRS,2018,May,286
+Niger,VIIRS,2018,Jun,113
+Niger,VIIRS,2018,Jul,9
+Niger,VIIRS,2018,Aug,5
+Niger,VIIRS,2018,Sep,29
+Niger,VIIRS,2018,Oct,924
+Niger,VIIRS,2018,Nov,2149
+Niger,VIIRS,2018,Dec,1569
+Niger,VIIRS,2019,Jan,818
+Niger,VIIRS,2019,Feb,621
+Niger,VIIRS,2019,Mar,739
+Niger,VIIRS,2019,Apr,907
+Niger,VIIRS,2019,May,310
+Niger,VIIRS,2019,Jun,107
+Niger,VIIRS,2019,Jul,26
+Niger,VIIRS,2019,Aug,3
+Niger,VIIRS,2019,Sep,12
+Niger,VIIRS,2019,Oct,452
+Niger,VIIRS,2019,Nov,2642
+Niger,VIIRS,2019,Dec,1591
+Nigeria,VIIRS,2016,Jan,209805
+Nigeria,VIIRS,2016,Feb,91113
+Nigeria,VIIRS,2016,Mar,21399
+Nigeria,VIIRS,2016,Apr,10407
+Nigeria,VIIRS,2016,May,2977
+Nigeria,VIIRS,2016,Jun,1353
+Nigeria,VIIRS,2016,Jul,571
+Nigeria,VIIRS,2016,Aug,331
+Nigeria,VIIRS,2016,Sep,846
+Nigeria,VIIRS,2016,Oct,14356
+Nigeria,VIIRS,2016,Nov,27328
+Nigeria,VIIRS,2016,Dec,86377
+Nigeria,VIIRS,2017,Jan,142443
+Nigeria,VIIRS,2017,Feb,142371
+Nigeria,VIIRS,2017,Mar,44312
+Nigeria,VIIRS,2017,Apr,12363
+Nigeria,VIIRS,2017,May,3815
+Nigeria,VIIRS,2017,Jun,1483
+Nigeria,VIIRS,2017,Jul,912
+Nigeria,VIIRS,2017,Aug,500
+Nigeria,VIIRS,2017,Sep,1416
+Nigeria,VIIRS,2017,Oct,23402
+Nigeria,VIIRS,2017,Nov,29297
+Nigeria,VIIRS,2017,Dec,71197
+Nigeria,VIIRS,2018,Jan,217058
+Nigeria,VIIRS,2018,Feb,63115
+Nigeria,VIIRS,2018,Mar,35565
+Nigeria,VIIRS,2018,Apr,9357
+Nigeria,VIIRS,2018,May,3066
+Nigeria,VIIRS,2018,Jun,1411
+Nigeria,VIIRS,2018,Jul,754
+Nigeria,VIIRS,2018,Aug,1016
+Nigeria,VIIRS,2018,Sep,959
+Nigeria,VIIRS,2018,Oct,12603
+Nigeria,VIIRS,2018,Nov,23069
+Nigeria,VIIRS,2018,Dec,64357
+Nigeria,VIIRS,2019,Jan,152190
+Nigeria,VIIRS,2019,Feb,99170
+Nigeria,VIIRS,2019,Mar,33601
+Nigeria,VIIRS,2019,Apr,12974
+Nigeria,VIIRS,2019,May,4116
+Nigeria,VIIRS,2019,Jun,1665
+Nigeria,VIIRS,2019,Jul,982
+Nigeria,VIIRS,2019,Aug,784
+Nigeria,VIIRS,2019,Sep,530
+Nigeria,VIIRS,2019,Oct,2661
+Nigeria,VIIRS,2019,Nov,22617
+Nigeria,VIIRS,2019,Dec,64722
+Senegal,VIIRS,2016,Jan,13269
+Senegal,VIIRS,2016,Feb,14962
+Senegal,VIIRS,2016,Mar,11187
+Senegal,VIIRS,2016,Apr,5226
+Senegal,VIIRS,2016,May,4028
+Senegal,VIIRS,2016,Jun,2809
+Senegal,VIIRS,2016,Jul,312
+Senegal,VIIRS,2016,Aug,22
+Senegal,VIIRS,2016,Sep,4
+Senegal,VIIRS,2016,Oct,8851
+Senegal,VIIRS,2016,Nov,10518
+Senegal,VIIRS,2016,Dec,11589
+Senegal,VIIRS,2017,Jan,13528
+Senegal,VIIRS,2017,Feb,12166
+Senegal,VIIRS,2017,Mar,9553
+Senegal,VIIRS,2017,Apr,5880
+Senegal,VIIRS,2017,May,2316
+Senegal,VIIRS,2017,Jun,2221
+Senegal,VIIRS,2017,Jul,192
+Senegal,VIIRS,2017,Aug,89
+Senegal,VIIRS,2017,Sep,22
+Senegal,VIIRS,2017,Oct,13252
+Senegal,VIIRS,2017,Nov,12471
+Senegal,VIIRS,2017,Dec,13531
+Senegal,VIIRS,2018,Jan,13217
+Senegal,VIIRS,2018,Feb,9112
+Senegal,VIIRS,2018,Mar,8269
+Senegal,VIIRS,2018,Apr,4918
+Senegal,VIIRS,2018,May,3793
+Senegal,VIIRS,2018,Jun,1290
+Senegal,VIIRS,2018,Jul,124
+Senegal,VIIRS,2018,Aug,80
+Senegal,VIIRS,2018,Sep,13
+Senegal,VIIRS,2018,Oct,3520
+Senegal,VIIRS,2018,Nov,10517
+Senegal,VIIRS,2018,Dec,12477
+Senegal,VIIRS,2019,Jan,12391
+Senegal,VIIRS,2019,Feb,11881
+Senegal,VIIRS,2019,Mar,8625
+Senegal,VIIRS,2019,Apr,4912
+Senegal,VIIRS,2019,May,3207
+Senegal,VIIRS,2019,Jun,2230
+Senegal,VIIRS,2019,Jul,349
+Senegal,VIIRS,2019,Aug,135
+Senegal,VIIRS,2019,Sep,10
+Senegal,VIIRS,2019,Oct,6354
+Senegal,VIIRS,2019,Nov,14748
+Senegal,VIIRS,2019,Dec,13219
+Sierra Leone,VIIRS,2016,Jan,16222
+Sierra Leone,VIIRS,2016,Feb,12838
+Sierra Leone,VIIRS,2016,Mar,19231
+Sierra Leone,VIIRS,2016,Apr,30421
+Sierra Leone,VIIRS,2016,May,2690
+Sierra Leone,VIIRS,2016,Jun,118
+Sierra Leone,VIIRS,2016,Jul,29
+Sierra Leone,VIIRS,2016,Aug,1
+Sierra Leone,VIIRS,2016,Sep,4
+Sierra Leone,VIIRS,2016,Oct,12
+Sierra Leone,VIIRS,2016,Nov,61
+Sierra Leone,VIIRS,2016,Dec,1885
+Sierra Leone,VIIRS,2017,Jan,10637
+Sierra Leone,VIIRS,2017,Feb,11944
+Sierra Leone,VIIRS,2017,Mar,17478
+Sierra Leone,VIIRS,2017,Apr,34062
+Sierra Leone,VIIRS,2017,May,798
+Sierra Leone,VIIRS,2017,Jun,54
+Sierra Leone,VIIRS,2017,Jul,8
+Sierra Leone,VIIRS,2017,Aug,5
+Sierra Leone,VIIRS,2017,Sep,6
+Sierra Leone,VIIRS,2017,Oct,47
+Sierra Leone,VIIRS,2017,Nov,103
+Sierra Leone,VIIRS,2017,Dec,3268
+Sierra Leone,VIIRS,2018,Jan,15380
+Sierra Leone,VIIRS,2018,Feb,10940
+Sierra Leone,VIIRS,2018,Mar,17048
+Sierra Leone,VIIRS,2018,Apr,27073
+Sierra Leone,VIIRS,2018,May,4805
+Sierra Leone,VIIRS,2018,Jun,77
+Sierra Leone,VIIRS,2018,Jul,17
+Sierra Leone,VIIRS,2018,Aug,5
+Sierra Leone,VIIRS,2018,Sep,6
+Sierra Leone,VIIRS,2018,Oct,19
+Sierra Leone,VIIRS,2018,Nov,159
+Sierra Leone,VIIRS,2018,Dec,3039
+Sierra Leone,VIIRS,2019,Jan,13572
+Sierra Leone,VIIRS,2019,Feb,13898
+Sierra Leone,VIIRS,2019,Mar,28112
+Sierra Leone,VIIRS,2019,Apr,28850
+Sierra Leone,VIIRS,2019,May,2743
+Sierra Leone,VIIRS,2019,Jun,86
+Sierra Leone,VIIRS,2019,Jul,13
+Sierra Leone,VIIRS,2019,Aug,7
+Sierra Leone,VIIRS,2019,Sep,6
+Sierra Leone,VIIRS,2019,Oct,35
+Sierra Leone,VIIRS,2019,Nov,214
+Sierra Leone,VIIRS,2019,Dec,3660
+The Gambia,VIIRS,2016,Jan,462
+The Gambia,VIIRS,2016,Feb,1315
+The Gambia,VIIRS,2016,Mar,863
+The Gambia,VIIRS,2016,Apr,612
+The Gambia,VIIRS,2016,May,806
+The Gambia,VIIRS,2016,Jun,426
+The Gambia,VIIRS,2016,Jul,9
+The Gambia,VIIRS,2016,Aug,2
+The Gambia,VIIRS,2016,Sep,0
+The Gambia,VIIRS,2016,Oct,16
+The Gambia,VIIRS,2016,Nov,116
+The Gambia,VIIRS,2016,Dec,263
+The Gambia,VIIRS,2017,Jan,1067
+The Gambia,VIIRS,2017,Feb,1185
+The Gambia,VIIRS,2017,Mar,945
+The Gambia,VIIRS,2017,Apr,749
+The Gambia,VIIRS,2017,May,301
+The Gambia,VIIRS,2017,Jun,222
+The Gambia,VIIRS,2017,Jul,1
+The Gambia,VIIRS,2017,Aug,1
+The Gambia,VIIRS,2017,Sep,1
+The Gambia,VIIRS,2017,Oct,26
+The Gambia,VIIRS,2017,Nov,119
+The Gambia,VIIRS,2017,Dec,535
+The Gambia,VIIRS,2018,Jan,985
+The Gambia,VIIRS,2018,Feb,942
+The Gambia,VIIRS,2018,Mar,925
+The Gambia,VIIRS,2018,Apr,845
+The Gambia,VIIRS,2018,May,522
+The Gambia,VIIRS,2018,Jun,163
+The Gambia,VIIRS,2018,Jul,13
+The Gambia,VIIRS,2018,Aug,0
+The Gambia,VIIRS,2018,Sep,0
+The Gambia,VIIRS,2018,Oct,0
+The Gambia,VIIRS,2018,Nov,31
+The Gambia,VIIRS,2018,Dec,439
+The Gambia,VIIRS,2019,Jan,577
+The Gambia,VIIRS,2019,Feb,553
+The Gambia,VIIRS,2019,Mar,1014
+The Gambia,VIIRS,2019,Apr,673
+The Gambia,VIIRS,2019,May,462
+The Gambia,VIIRS,2019,Jun,325
+The Gambia,VIIRS,2019,Jul,36
+The Gambia,VIIRS,2019,Aug,1
+The Gambia,VIIRS,2019,Sep,0
+The Gambia,VIIRS,2019,Oct,7
+The Gambia,VIIRS,2019,Nov,175
+The Gambia,VIIRS,2019,Dec,322
+Togo,VIIRS,2016,Jan,17294
+Togo,VIIRS,2016,Feb,6669
+Togo,VIIRS,2016,Mar,2320
+Togo,VIIRS,2016,Apr,673
+Togo,VIIRS,2016,May,123
+Togo,VIIRS,2016,Jun,44
+Togo,VIIRS,2016,Jul,20
+Togo,VIIRS,2016,Aug,45
+Togo,VIIRS,2016,Sep,35
+Togo,VIIRS,2016,Oct,91
+Togo,VIIRS,2016,Nov,3731
+Togo,VIIRS,2016,Dec,19409
+Togo,VIIRS,2017,Jan,15125
+Togo,VIIRS,2017,Feb,8643
+Togo,VIIRS,2017,Mar,4422
+Togo,VIIRS,2017,Apr,671
+Togo,VIIRS,2017,May,104
+Togo,VIIRS,2017,Jun,21
+Togo,VIIRS,2017,Jul,26
+Togo,VIIRS,2017,Aug,22
+Togo,VIIRS,2017,Sep,26
+Togo,VIIRS,2017,Oct,246
+Togo,VIIRS,2017,Nov,6588
+Togo,VIIRS,2017,Dec,16035
+Togo,VIIRS,2018,Jan,16346
+Togo,VIIRS,2018,Feb,6540
+Togo,VIIRS,2018,Mar,2355
+Togo,VIIRS,2018,Apr,453
+Togo,VIIRS,2018,May,121
+Togo,VIIRS,2018,Jun,59
+Togo,VIIRS,2018,Jul,42
+Togo,VIIRS,2018,Aug,52
+Togo,VIIRS,2018,Sep,12
+Togo,VIIRS,2018,Oct,75
+Togo,VIIRS,2018,Nov,2546
+Togo,VIIRS,2018,Dec,16619
+Togo,VIIRS,2019,Jan,17443
+Togo,VIIRS,2019,Feb,9178
+Togo,VIIRS,2019,Mar,3891
+Togo,VIIRS,2019,Apr,747
+Togo,VIIRS,2019,May,123
+Togo,VIIRS,2019,Jun,30
+Togo,VIIRS,2019,Jul,30
+Togo,VIIRS,2019,Aug,53
+Togo,VIIRS,2019,Sep,13
+Togo,VIIRS,2019,Oct,17
+Togo,VIIRS,2019,Nov,1118
+Togo,VIIRS,2019,Dec,13635

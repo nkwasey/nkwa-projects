@@ -41,11 +41,6 @@ def init_dashboard(server):
         external_stylesheets=[dbc.themes.BOOTSTRAP])
 
     navbar = dbc.NavbarSimple(
-        children=[
-            dbc.NavItem(dbc.NavLink("Home", href="#")),
-            dbc.NavItem(dbc.NavLink("Projects", href="#")),
-
-        ],
         brand="Nkwa's Projects",
         brand_href="#",
         color="primary",

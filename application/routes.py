@@ -74,22 +74,9 @@ def get_fires():
             return jsonify(output), 404
 
 
-# Routes for Nkwa's Notes (Python Basics)
+# Routes for Nkwa's Project (Python)
 @app.route('/')
 def home_template():
     return render_template('index.html')
 
 
-@app.route('/python3/archive')
-def python_archive():
-    return render_template('python3/archive.html')
-
-
-@app.route('/python3/notes1')
-def python_notes1():
-    return render_template('python3/notes1.html')
-
-
-@app.route('/python3/notes2')
-def python_notes2():
-    return render_template('python3/notes2.html')
